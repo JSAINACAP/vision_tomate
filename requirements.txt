@@ -1,0 +1,10 @@
+﻿opencv-python
+numpy
+albumentations
+keras
+tensorflow
+pandas
+plotly
+matplotlib
+tensorflow-addons
+pillow
